@@ -1,7 +1,7 @@
 ---
 name: Bug Report
 about: Submit a bug report for the OntoPop app
-title: "[BUG]"
+title: ''
 labels: ''
 assignees: ''
 

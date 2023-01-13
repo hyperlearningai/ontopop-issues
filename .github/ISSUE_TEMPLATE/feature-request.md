@@ -1,7 +1,7 @@
 ---
 name: Feature Request
 about: Suggest a feature for the OntoPop app
-title: "[FEATURE]"
+title: ''
 labels: ''
 assignees: ''
 
